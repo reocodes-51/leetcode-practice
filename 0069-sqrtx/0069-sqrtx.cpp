@@ -1,12 +1,22 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        long long int ans = 0 ;
-        long long int i = 1 ;
-        while ( 1LL*i*i <= x ) {
-            ans = i ;
-            i++;
+        long long low = 1;
+        long long high = x;
+        long long ans = 0;
+
+        while (low <= high) {
+            long long mid = low + (high - low) / 2;
+
+            if (1LL * mid * mid <= x) {
+                ans = mid;
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
+            }
         }
-        return ans ;
+
+        return ans;
     }
 };
