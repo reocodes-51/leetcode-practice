@@ -53,9 +53,11 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/reocodes-51/leetcode-practice/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
