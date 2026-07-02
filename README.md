@@ -55,6 +55,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/reocodes-51/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/reocodes-51/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/reocodes-51/leetcode-practice/tree/master/0704-binary-search) |
@@ -66,5 +67,6 @@ Each problem is organized in its own directory and typically includes:
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/reocodes-51/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/reocodes-51/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
