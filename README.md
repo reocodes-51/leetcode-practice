@@ -66,6 +66,7 @@ Each problem is organized in its own directory and typically includes:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 ## Interactive
@@ -73,4 +74,12 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0278-first-bad-version](https://github.com/reocodes-51/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/reocodes-51/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
