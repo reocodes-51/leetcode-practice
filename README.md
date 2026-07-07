@@ -56,6 +56,7 @@ Each problem is organized in its own directory and typically includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/reocodes-51/leetcode-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2951-find-the-peaks](https://github.com/reocodes-51/leetcode-practice/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +95,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/reocodes-51/leetcode-practice/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/reocodes-51/leetcode-practice/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
