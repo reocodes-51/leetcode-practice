@@ -95,6 +95,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/reocodes-51/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -108,4 +109,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
