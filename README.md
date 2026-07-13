@@ -85,6 +85,7 @@ Each problem is organized in its own directory and typically includes:
 | [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/reocodes-51/leetcode-practice/tree/master/2235-add-two-integers) |
 ## Interactive
 |  |
 | ------- |
