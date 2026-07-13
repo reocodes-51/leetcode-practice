@@ -58,6 +58,7 @@ Each problem is organized in its own directory and typically includes:
 | [0704-binary-search](https://github.com/reocodes-51/leetcode-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1929-concatenation-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2951-find-the-peaks](https://github.com/reocodes-51/leetcode-practice/tree/master/2951-find-the-peaks) |
 ## Binary Search
@@ -148,4 +149,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
