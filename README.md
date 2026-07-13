@@ -81,6 +81,7 @@ Each problem is organized in its own directory and typically includes:
 | [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
+| [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 ## Interactive
 |  |
@@ -135,4 +136,16 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
