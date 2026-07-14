@@ -99,6 +99,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/reocodes-51/leetcode-practice/tree/master/0205-isomorphic-strings) |
+| [0771-jewels-and-stones](https://github.com/reocodes-51/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
@@ -107,6 +108,7 @@ Each problem is organized in its own directory and typically includes:
 | [0014-longest-common-prefix](https://github.com/reocodes-51/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/reocodes-51/leetcode-practice/tree/master/0205-isomorphic-strings) |
+| [0771-jewels-and-stones](https://github.com/reocodes-51/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
