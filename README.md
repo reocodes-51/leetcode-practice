@@ -111,6 +111,7 @@ Each problem is organized in its own directory and typically includes:
 | [0771-jewels-and-stones](https://github.com/reocodes-51/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/reocodes-51/leetcode-practice/tree/master/1108-defanging-an-ip-address) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
