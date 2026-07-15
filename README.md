@@ -93,6 +93,7 @@ Each problem is organized in its own directory and typically includes:
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/reocodes-51/leetcode-practice/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/reocodes-51/leetcode-practice/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/reocodes-51/leetcode-practice/tree/master/2652-sum-multiples) |
 ## Interactive
@@ -188,4 +189,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
