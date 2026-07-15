@@ -94,6 +94,7 @@ Each problem is organized in its own directory and typically includes:
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/reocodes-51/leetcode-practice/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/reocodes-51/leetcode-practice/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/reocodes-51/leetcode-practice/tree/master/2652-sum-multiples) |
 ## Interactive
 |  |
 | ------- |
