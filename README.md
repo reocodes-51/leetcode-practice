@@ -100,6 +100,7 @@ Each problem is organized in its own directory and typically includes:
 | [2469-convert-the-temperature](https://github.com/reocodes-51/leetcode-practice/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/reocodes-51/leetcode-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/reocodes-51/leetcode-practice/tree/master/2652-sum-multiples) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/reocodes-51/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
 | ------- |
@@ -199,4 +200,5 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/reocodes-51/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
