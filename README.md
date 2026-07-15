@@ -121,6 +121,7 @@ Each problem is organized in its own directory and typically includes:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
