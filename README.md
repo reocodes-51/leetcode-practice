@@ -90,6 +90,7 @@ Each problem is organized in its own directory and typically includes:
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/reocodes-51/leetcode-practice/tree/master/2235-add-two-integers) |
