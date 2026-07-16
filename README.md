@@ -96,6 +96,7 @@ Each problem is organized in its own directory and typically includes:
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/reocodes-51/leetcode-practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/reocodes-51/leetcode-practice/tree/master/2469-convert-the-temperature) |
@@ -150,6 +151,7 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
 |  |
 | ------- |
@@ -207,4 +209,8 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/reocodes-51/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
