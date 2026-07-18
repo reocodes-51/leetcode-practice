@@ -64,6 +64,7 @@ Each problem is organized in its own directory and typically includes:
 | [1672-richest-customer-wealth](https://github.com/reocodes-51/leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/reocodes-51/leetcode-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -98,6 +99,7 @@ Each problem is organized in its own directory and typically includes:
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/reocodes-51/leetcode-practice/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
@@ -210,6 +212,7 @@ Each problem is organized in its own directory and typically includes:
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/reocodes-51/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
