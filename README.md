@@ -58,6 +58,7 @@ Each problem is organized in its own directory and typically includes:
 | [0704-binary-search](https://github.com/reocodes-51/leetcode-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/reocodes-51/leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1528-shuffle-string) |
