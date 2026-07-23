@@ -146,6 +146,7 @@ Each problem is organized in its own directory and typically includes:
 | [0014-longest-common-prefix](https://github.com/reocodes-51/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/reocodes-51/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/reocodes-51/leetcode-practice/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/reocodes-51/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0344-reverse-string) |
@@ -187,6 +188,7 @@ Each problem is organized in its own directory and typically includes:
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/reocodes-51/leetcode-practice/tree/master/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/reocodes-51/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
