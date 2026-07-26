@@ -59,6 +59,7 @@ Each problem is organized in its own directory and typically includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/reocodes-51/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/reocodes-51/leetcode-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -113,6 +114,7 @@ Each problem is organized in its own directory and typically includes:
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/reocodes-51/leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
@@ -278,6 +280,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0049-group-anagrams](https://github.com/reocodes-51/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3024-type-of-triangle](https://github.com/reocodes-51/leetcode-practice/tree/master/3024-type-of-triangle) |
