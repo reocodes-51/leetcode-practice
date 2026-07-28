@@ -167,6 +167,7 @@ Each problem is organized in its own directory and typically includes:
 | [0071-simplify-path](https://github.com/reocodes-51/leetcode-practice/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/reocodes-51/leetcode-practice/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/reocodes-51/leetcode-practice/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/reocodes-51/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -224,6 +225,7 @@ Each problem is organized in its own directory and typically includes:
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/reocodes-51/leetcode-practice/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
@@ -328,4 +330,12 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/reocodes-51/leetcode-practice/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/reocodes-51/leetcode-practice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
