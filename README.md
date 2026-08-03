@@ -69,6 +69,7 @@ Each problem is organized in its own directory and typically includes:
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/reocodes-51/leetcode-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/reocodes-51/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/reocodes-51/leetcode-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/reocodes-51/leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -241,6 +242,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/reocodes-51/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1052-grumpy-bookstore-owner](https://github.com/reocodes-51/leetcode-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/reocodes-51/leetcode-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
