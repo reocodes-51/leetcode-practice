@@ -72,6 +72,7 @@ Each problem is organized in its own directory and typically includes:
 | [1052-grumpy-bookstore-owner](https://github.com/reocodes-51/leetcode-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/reocodes-51/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/reocodes-51/leetcode-practice/tree/master/1389-create-target-array-in-the-given-order) |
+| [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/reocodes-51/leetcode-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1470-shuffle-the-array) |
@@ -127,6 +128,7 @@ Each problem is organized in its own directory and typically includes:
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -257,6 +259,7 @@ Each problem is organized in its own directory and typically includes:
 | [0486-predict-the-winner](https://github.com/reocodes-51/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -267,6 +270,7 @@ Each problem is organized in its own directory and typically includes:
 | [0486-predict-the-winner](https://github.com/reocodes-51/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -356,4 +360,12 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/reocodes-51/leetcode-practice/tree/master/0214-shortest-palindrome) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
