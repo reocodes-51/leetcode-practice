@@ -95,6 +95,7 @@ Each problem is organized in its own directory and typically includes:
 | [2951-find-the-peaks](https://github.com/reocodes-51/leetcode-practice/tree/master/2951-find-the-peaks) |
 | [3024-type-of-triangle](https://github.com/reocodes-51/leetcode-practice/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/reocodes-51/leetcode-practice/tree/master/3028-ant-on-the-boundary) |
+| [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -117,6 +118,7 @@ Each problem is organized in its own directory and typically includes:
 | [0540-single-element-in-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/reocodes-51/leetcode-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -288,6 +290,7 @@ Each problem is organized in its own directory and typically includes:
 | [1929-concatenation-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3028-ant-on-the-boundary](https://github.com/reocodes-51/leetcode-practice/tree/master/3028-ant-on-the-boundary) |
+| [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -350,6 +353,7 @@ Each problem is organized in its own directory and typically includes:
 ## Segment Tree
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
@@ -375,4 +379,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
