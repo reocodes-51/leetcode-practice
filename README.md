@@ -383,4 +383,16 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/reocodes-51/leetcode-practice/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/reocodes-51/leetcode-practice/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/reocodes-51/leetcode-practice/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
