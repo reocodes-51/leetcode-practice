@@ -152,6 +152,7 @@ Each problem is organized in its own directory and typically includes:
 | [3024-type-of-triangle](https://github.com/reocodes-51/leetcode-practice/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/reocodes-51/leetcode-practice/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -216,6 +217,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/reocodes-51/leetcode-practice/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
