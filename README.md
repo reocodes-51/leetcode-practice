@@ -153,6 +153,7 @@ Each problem is organized in its own directory and typically includes:
 | [3099-harshad-number](https://github.com/reocodes-51/leetcode-practice/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -205,6 +206,7 @@ Each problem is organized in its own directory and typically includes:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/3280-convert-date-to-binary) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -228,6 +230,7 @@ Each problem is organized in its own directory and typically includes:
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -318,6 +321,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/reocodes-51/leetcode-practice/tree/master/2413-smallest-even-multiple) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/reocodes-51/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
@@ -401,4 +405,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/reocodes-51/leetcode-practice/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
