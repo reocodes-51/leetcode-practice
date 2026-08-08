@@ -201,6 +201,7 @@ Each problem is organized in its own directory and typically includes:
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/reocodes-51/leetcode-practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -261,6 +262,7 @@ Each problem is organized in its own directory and typically includes:
 | [1004-max-consecutive-ones-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/reocodes-51/leetcode-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/reocodes-51/leetcode-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/reocodes-51/leetcode-practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
