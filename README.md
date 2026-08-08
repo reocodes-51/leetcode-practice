@@ -207,6 +207,7 @@ Each problem is organized in its own directory and typically includes:
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/3280-convert-date-to-binary) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -231,6 +232,7 @@ Each problem is organized in its own directory and typically includes:
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -248,6 +250,7 @@ Each problem is organized in its own directory and typically includes:
 | [0151-reverse-words-in-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -279,6 +282,7 @@ Each problem is organized in its own directory and typically includes:
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
 | ------- |
