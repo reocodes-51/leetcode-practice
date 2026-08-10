@@ -51,6 +51,7 @@ Each problem is organized in its own directory and typically includes:
 | [0004-median-of-two-sorted-arrays](https://github.com/reocodes-51/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/reocodes-51/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
@@ -262,6 +263,7 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reocodes-51/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
