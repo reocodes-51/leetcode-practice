@@ -179,6 +179,7 @@ Each problem is organized in its own directory and typically includes:
 | [0205-isomorphic-strings](https://github.com/reocodes-51/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/reocodes-51/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/reocodes-51/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/reocodes-51/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -201,6 +202,7 @@ Each problem is organized in its own directory and typically includes:
 | [0412-fizz-buzz](https://github.com/reocodes-51/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/reocodes-51/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/reocodes-51/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
@@ -261,6 +263,7 @@ Each problem is organized in its own directory and typically includes:
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
@@ -273,6 +276,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/reocodes-51/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/reocodes-51/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/reocodes-51/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
