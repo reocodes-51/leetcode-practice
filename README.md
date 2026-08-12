@@ -102,6 +102,7 @@ Each problem is organized in its own directory and typically includes:
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/reocodes-51/leetcode-practice/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/reocodes-51/leetcode-practice/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/reocodes-51/leetcode-practice/tree/master/3028-ant-on-the-boundary) |
@@ -189,6 +190,7 @@ Each problem is organized in its own directory and typically includes:
 | [0904-fruit-into-baskets](https://github.com/reocodes-51/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/3731-find-missing-elements) |
 ## String
@@ -297,6 +299,7 @@ Each problem is organized in its own directory and typically includes:
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/reocodes-51/leetcode-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reocodes-51/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/reocodes-51/leetcode-practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
