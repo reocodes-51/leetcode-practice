@@ -97,6 +97,7 @@ Each problem is organized in its own directory and typically includes:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -223,6 +224,7 @@ Each problem is organized in its own directory and typically includes:
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/reocodes-51/leetcode-practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2942-find-words-containing-character) |
@@ -412,6 +414,7 @@ Each problem is organized in its own directory and typically includes:
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
@@ -445,6 +448,7 @@ Each problem is organized in its own directory and typically includes:
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
