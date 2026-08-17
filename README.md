@@ -88,6 +88,7 @@ Each problem is organized in its own directory and typically includes:
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reocodes-51/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/reocodes-51/leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/reocodes-51/leetcode-practice/tree/master/1773-count-items-matching-a-rule) |
@@ -154,6 +155,7 @@ Each problem is organized in its own directory and typically includes:
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/reocodes-51/leetcode-practice/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -331,6 +333,7 @@ Each problem is organized in its own directory and typically includes:
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reocodes-51/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/reocodes-51/leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
@@ -345,6 +348,7 @@ Each problem is organized in its own directory and typically includes:
 | [1140-stone-game-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/reocodes-51/leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/reocodes-51/leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
