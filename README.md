@@ -109,6 +109,7 @@ Each problem is organized in its own directory and typically includes:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/reocodes-51/leetcode-practice/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/reocodes-51/leetcode-practice/tree/master/3028-ant-on-the-boundary) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -199,6 +200,7 @@ Each problem is organized in its own directory and typically includes:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/reocodes-51/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
