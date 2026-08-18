@@ -412,6 +412,7 @@ Each problem is organized in its own directory and typically includes:
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/reocodes-51/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -499,4 +500,8 @@ Each problem is organized in its own directory and typically includes:
 | [0584-find-customer-referee](https://github.com/reocodes-51/leetcode-practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/reocodes-51/leetcode-practice/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/reocodes-51/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
