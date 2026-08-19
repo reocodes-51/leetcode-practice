@@ -79,6 +79,7 @@ Each problem is organized in its own directory and typically includes:
 | [1140-stone-game-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/reocodes-51/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/reocodes-51/leetcode-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/reocodes-51/leetcode-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/reocodes-51/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -197,6 +198,7 @@ Each problem is organized in its own directory and typically includes:
 | [0771-jewels-and-stones](https://github.com/reocodes-51/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/reocodes-51/leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -263,6 +265,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0011-container-with-most-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/reocodes-51/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/reocodes-51/leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -375,6 +378,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0067-add-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/reocodes-51/leetcode-practice/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/reocodes-51/leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
