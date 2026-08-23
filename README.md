@@ -231,6 +231,7 @@ Each problem is organized in its own directory and typically includes:
 | [0424-longest-repeating-character-replacement](https://github.com/reocodes-51/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/reocodes-51/leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
@@ -274,6 +275,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0011-container-with-most-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/reocodes-51/leetcode-practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/reocodes-51/leetcode-practice/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/reocodes-51/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
@@ -291,6 +293,7 @@ Each problem is organized in its own directory and typically includes:
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/reocodes-51/leetcode-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reocodes-51/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/reocodes-51/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
@@ -348,6 +351,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/reocodes-51/leetcode-practice/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/1140-stone-game-ii) |
@@ -539,4 +543,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/reocodes-51/leetcode-practice/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
