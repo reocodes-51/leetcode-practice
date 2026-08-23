@@ -167,6 +167,7 @@ Each problem is organized in its own directory and typically includes:
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/reocodes-51/leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -240,6 +241,7 @@ Each problem is organized in its own directory and typically includes:
 | [1528-shuffle-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/reocodes-51/leetcode-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -276,6 +278,7 @@ Each problem is organized in its own directory and typically includes:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/reocodes-51/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/reocodes-51/leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reocodes-51/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -367,6 +370,7 @@ Each problem is organized in its own directory and typically includes:
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/reocodes-51/leetcode-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/reocodes-51/leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
