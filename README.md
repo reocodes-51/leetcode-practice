@@ -56,6 +56,7 @@ Each problem is organized in its own directory and typically includes:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/reocodes-51/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reocodes-51/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -274,6 +275,7 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/reocodes-51/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/reocodes-51/leetcode-practice/tree/master/0860-lemonade-change) |
@@ -350,6 +352,7 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/reocodes-51/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
