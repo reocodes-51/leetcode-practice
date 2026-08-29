@@ -109,6 +109,7 @@ Each problem is organized in its own directory and typically includes:
 | [2778-sum-of-squares-of-special-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2942-find-words-containing-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/reocodes-51/leetcode-practice/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -441,6 +442,7 @@ Each problem is organized in its own directory and typically includes:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reocodes-51/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/reocodes-51/leetcode-practice/tree/master/3024-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -560,4 +562,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
