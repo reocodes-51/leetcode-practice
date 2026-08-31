@@ -552,6 +552,7 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/0203-remove-linked-list-elements) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/reocodes-51/leetcode-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
 |  |
 | ------- |
