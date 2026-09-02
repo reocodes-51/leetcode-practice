@@ -172,6 +172,7 @@ Each problem is organized in its own directory and typically includes:
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/reocodes-51/leetcode-practice/tree/master/2029-stone-game-ix) |
@@ -466,6 +467,7 @@ Each problem is organized in its own directory and typically includes:
 | [0231-power-of-two](https://github.com/reocodes-51/leetcode-practice/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/reocodes-51/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/1922-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
