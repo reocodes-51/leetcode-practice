@@ -125,6 +125,7 @@ Each problem is organized in its own directory and typically includes:
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/reocodes-51/leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -363,6 +364,7 @@ Each problem is organized in its own directory and typically includes:
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/reocodes-51/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3028-ant-on-the-boundary](https://github.com/reocodes-51/leetcode-practice/tree/master/3028-ant-on-the-boundary) |
+| [3903-smallest-stable-index-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
