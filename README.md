@@ -197,6 +197,7 @@ Each problem is organized in its own directory and typically includes:
 | [3536-maximum-product-of-two-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/reocodes-51/leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/reocodes-51/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3871-count-commas-in-range-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3871-count-commas-in-range-ii) |
 ## Interactive
 |  |
 | ------- |
