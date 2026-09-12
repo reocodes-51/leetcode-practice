@@ -158,6 +158,7 @@ Each problem is organized in its own directory and typically includes:
 | [0050-powx-n](https://github.com/reocodes-51/leetcode-practice/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/reocodes-51/leetcode-practice/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/reocodes-51/leetcode-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/reocodes-51/leetcode-practice/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/reocodes-51/leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/reocodes-51/leetcode-practice/tree/master/0412-fizz-buzz) |
@@ -208,6 +209,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/reocodes-51/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/reocodes-51/leetcode-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/reocodes-51/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/reocodes-51/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -322,6 +324,7 @@ Each problem is organized in its own directory and typically includes:
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reocodes-51/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/reocodes-51/leetcode-practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/reocodes-51/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/reocodes-51/leetcode-practice/tree/master/0455-assign-cookies) |
@@ -587,4 +590,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/reocodes-51/leetcode-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
