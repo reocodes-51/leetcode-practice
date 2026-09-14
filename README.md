@@ -164,6 +164,7 @@ Each problem is organized in its own directory and typically includes:
 | [0412-fizz-buzz](https://github.com/reocodes-51/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/reocodes-51/leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/reocodes-51/leetcode-practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/reocodes-51/leetcode-practice/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/1140-stone-game-ii) |
@@ -594,4 +595,8 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/reocodes-51/leetcode-practice/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/reocodes-51/leetcode-practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
