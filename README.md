@@ -260,6 +260,7 @@ Each problem is organized in its own directory and typically includes:
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/reocodes-51/leetcode-practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/reocodes-51/leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reocodes-51/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2942-find-words-containing-character) |
@@ -304,6 +305,7 @@ Each problem is organized in its own directory and typically includes:
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reocodes-51/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/reocodes-51/leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -332,6 +334,7 @@ Each problem is organized in its own directory and typically includes:
 | [0567-permutation-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reocodes-51/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/reocodes-51/leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
@@ -386,6 +389,7 @@ Each problem is organized in its own directory and typically includes:
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reocodes-51/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/reocodes-51/leetcode-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/reocodes-51/leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
