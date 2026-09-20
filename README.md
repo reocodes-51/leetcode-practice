@@ -271,6 +271,7 @@ Each problem is organized in its own directory and typically includes:
 | [3280-convert-date-to-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/3280-convert-date-to-binary) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -420,6 +421,7 @@ Each problem is organized in its own directory and typically includes:
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3028-ant-on-the-boundary](https://github.com/reocodes-51/leetcode-practice/tree/master/3028-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/reocodes-51/leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
