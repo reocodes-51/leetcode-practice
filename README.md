@@ -124,6 +124,7 @@ Each problem is organized in its own directory and typically includes:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/reocodes-51/leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
@@ -199,6 +200,7 @@ Each problem is organized in its own directory and typically includes:
 | [3513-number-of-unique-xor-triplets-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/reocodes-51/leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/reocodes-51/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -507,6 +509,7 @@ Each problem is organized in its own directory and typically includes:
 | [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
