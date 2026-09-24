@@ -95,6 +95,7 @@ Each problem is organized in its own directory and typically includes:
 | [1528-shuffle-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/reocodes-51/leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/reocodes-51/leetcode-practice/tree/master/1773-count-items-matching-a-rule) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -150,6 +151,7 @@ Each problem is organized in its own directory and typically includes:
 | [0744-find-smallest-letter-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/reocodes-51/leetcode-practice/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/reocodes-51/leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -225,6 +227,7 @@ Each problem is organized in its own directory and typically includes:
 | [0930-binary-subarrays-with-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/reocodes-51/leetcode-practice/tree/master/1512-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/reocodes-51/leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/reocodes-51/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -364,6 +367,7 @@ Each problem is organized in its own directory and typically includes:
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/reocodes-51/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/reocodes-51/leetcode-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/reocodes-51/leetcode-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/reocodes-51/leetcode-practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reocodes-51/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -378,6 +382,7 @@ Each problem is organized in its own directory and typically includes:
 | [1208-get-equal-substrings-within-budget](https://github.com/reocodes-51/leetcode-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/reocodes-51/leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3028-ant-on-the-boundary](https://github.com/reocodes-51/leetcode-practice/tree/master/3028-ant-on-the-boundary) |
 | [3903-smallest-stable-index-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3904-smallest-stable-index-ii) |
