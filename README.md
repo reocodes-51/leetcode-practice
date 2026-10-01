@@ -240,6 +240,7 @@ Each problem is organized in its own directory and typically includes:
 | [0006-zigzag-conversion](https://github.com/reocodes-51/leetcode-practice/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/reocodes-51/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/reocodes-51/leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/reocodes-51/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/reocodes-51/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/reocodes-51/leetcode-practice/tree/master/0067-add-binary) |
@@ -323,6 +324,7 @@ Each problem is organized in its own directory and typically includes:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/reocodes-51/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/reocodes-51/leetcode-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reocodes-51/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -606,6 +608,7 @@ Each problem is organized in its own directory and typically includes:
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/reocodes-51/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/reocodes-51/leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Union-Find
