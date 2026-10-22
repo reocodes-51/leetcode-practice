@@ -103,6 +103,7 @@ Each problem is organized in its own directory and typically includes:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/reocodes-51/leetcode-practice/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reocodes-51/leetcode-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -152,6 +153,7 @@ Each problem is organized in its own directory and typically includes:
 | [1004-max-consecutive-ones-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/reocodes-51/leetcode-practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/reocodes-51/leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -481,6 +483,7 @@ Each problem is organized in its own directory and typically includes:
 | [0628-maximum-product-of-three-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reocodes-51/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
