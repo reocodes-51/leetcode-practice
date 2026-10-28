@@ -127,6 +127,7 @@ Each problem is organized in its own directory and typically includes:
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/reocodes-51/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/reocodes-51/leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
@@ -449,6 +450,7 @@ Each problem is organized in its own directory and typically includes:
 | ------- |
 | [1260-shift-2d-grid](https://github.com/reocodes-51/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/reocodes-51/leetcode-practice/tree/master/1672-richest-customer-wealth) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/reocodes-51/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -567,10 +569,12 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/reocodes-51/leetcode-practice/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/reocodes-51/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/reocodes-51/leetcode-practice/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/reocodes-51/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -626,6 +630,7 @@ Each problem is organized in its own directory and typically includes:
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/reocodes-51/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
