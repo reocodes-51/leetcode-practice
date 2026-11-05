@@ -83,6 +83,7 @@ Each problem is organized in its own directory and typically includes:
 | [1140-stone-game-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/reocodes-51/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/reocodes-51/leetcode-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/reocodes-51/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/reocodes-51/leetcode-practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1406-stone-game-iii) |
@@ -154,6 +155,7 @@ Each problem is organized in its own directory and typically includes:
 | [0744-find-smallest-letter-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/reocodes-51/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/reocodes-51/leetcode-practice/tree/master/1208-get-equal-substrings-within-budget) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/reocodes-51/leetcode-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -356,6 +358,7 @@ Each problem is organized in its own directory and typically includes:
 | [0455-assign-cookies](https://github.com/reocodes-51/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/reocodes-51/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reocodes-51/leetcode-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/reocodes-51/leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -487,6 +490,7 @@ Each problem is organized in its own directory and typically includes:
 | [0455-assign-cookies](https://github.com/reocodes-51/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/reocodes-51/leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/reocodes-51/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/reocodes-51/leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/reocodes-51/leetcode-practice/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
