@@ -96,6 +96,7 @@ Each problem is organized in its own directory and typically includes:
 | [1528-shuffle-string](https://github.com/reocodes-51/leetcode-practice/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/reocodes-51/leetcode-practice/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/reocodes-51/leetcode-practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/reocodes-51/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/reocodes-51/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/reocodes-51/leetcode-practice/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/reocodes-51/leetcode-practice/tree/master/1773-count-items-matching-a-rule) |
@@ -444,6 +445,7 @@ Each problem is organized in its own directory and typically includes:
 | [0412-fizz-buzz](https://github.com/reocodes-51/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/reocodes-51/leetcode-practice/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/reocodes-51/leetcode-practice/tree/master/1389-create-target-array-in-the-given-order) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/reocodes-51/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/reocodes-51/leetcode-practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reocodes-51/leetcode-practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -526,6 +528,7 @@ Each problem is organized in its own directory and typically includes:
 | [0451-sort-characters-by-frequency](https://github.com/reocodes-51/leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/reocodes-51/leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/reocodes-51/leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/reocodes-51/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -572,6 +575,7 @@ Each problem is organized in its own directory and typically includes:
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/reocodes-51/leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3477-fruits-into-baskets-ii) |
 ## Depth-First Search
