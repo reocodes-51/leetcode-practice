@@ -130,6 +130,7 @@ Each problem is organized in its own directory and typically includes:
 | [3524-find-x-value-of-array-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/reocodes-51/leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/reocodes-51/leetcode-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/reocodes-51/leetcode-practice/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/reocodes-51/leetcode-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -422,6 +423,7 @@ Each problem is organized in its own directory and typically includes:
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/reocodes-51/leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 ## Brainteaser
 |  |
 | ------- |
