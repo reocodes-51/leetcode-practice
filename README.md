@@ -286,6 +286,7 @@ Each problem is organized in its own directory and typically includes:
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/reocodes-51/leetcode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/reocodes-51/leetcode-practice/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/reocodes-51/leetcode-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/reocodes-51/leetcode-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/reocodes-51/leetcode-practice/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/reocodes-51/leetcode-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
