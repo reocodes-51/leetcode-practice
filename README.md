@@ -139,6 +139,7 @@ Each problem is organized in its own directory and typically includes:
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/reocodes-51/leetcode-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3903-smallest-stable-index-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -342,6 +343,7 @@ Each problem is organized in its own directory and typically includes:
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/reocodes-51/leetcode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -436,6 +438,7 @@ Each problem is organized in its own directory and typically includes:
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/reocodes-51/leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/reocodes-51/leetcode-practice/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/reocodes-51/leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Brainteaser
 |  |
 | ------- |
